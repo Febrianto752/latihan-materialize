@@ -17,13 +17,12 @@ body {
   /* opacity: 0.5 !important; */
 }
 
-
 .clients img {
   max-width: 150px;
-  filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, .4));
+  filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.4));
 }
 
 section,
 footer {
-  padding: 20px 0;
+  padding: 10px 0;
 }
